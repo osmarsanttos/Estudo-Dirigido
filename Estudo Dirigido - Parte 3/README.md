@@ -113,4 +113,4 @@ SciLab
 
 Osmar dos Santos Filho
 Instituto Federal da Paraíba – IFPB
-Curso: Engenharia da Computação / Telemática
+Curso: Engenharia da Computação
